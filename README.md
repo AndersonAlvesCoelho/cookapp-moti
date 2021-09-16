@@ -17,7 +17,7 @@
 
 ## 💡 Sobre o Projeto
 
-Este projeto está foi desenvolvido acompanhando o [Code/drops #98](https://youtu.be/wb6bHqSQAgc) da [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;, com objetivo de coloca em pratica essa maravilhosa lib chamado [Moti](https://moti.fyi/)
+Este projeto foi desenvolvido acompanhando o [Code/drops #98](https://youtu.be/wb6bHqSQAgc) da [Rocketseat](https://rocketseat.com.br/) 🚀&nbsp;, com objetivo de coloca em pratica essa maravilhosa lib chamado [Moti](https://moti.fyi/)
 
 
 
